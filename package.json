@@ -1,7 +1,7 @@
 {
-  "name": "angular2-express-starter",
+  "name": "ng-spotify",
   "version": "1.0.0",
-  "description": "Starter application of Angular2 on Express",
+  "description": "Look up artists and their albums using spotify api",
   "main": "gulpfile.js",
   "private": true,
   "scripts": {
@@ -16,7 +16,7 @@
   "engines": {
     "node": ">= 5.4.1 < 6"
   },
-  "author": "Vlado Tešanović",
+  "author": "Viet Le",
   "license": "MIT",
   "dependencies": {
     "body-parser": "~1.13.2",
